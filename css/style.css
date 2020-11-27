@@ -4,6 +4,7 @@
 
 .container .head h1 {
     text-align: center;
+    padding:50px 0px;
     /* position: relative; */
 }
 
@@ -21,4 +22,35 @@
     width: 100px;
     height: 5px;
     background: #6aaf08;
+}
+.box{
+    border: 1px solid #d5dccc;
+    margin:5px;
+}
+
+.ico {
+    padding: 40px 30px;
+}
+
+.fas {
+    color: #6aaf08;
+    font-size: 60px;
+}
+
+.line {
+    width: 5px;
+    height: 130px;
+    margin: 10px;
+    background: #d1d1d1;
+}
+
+.text p {
+    font-style: italic;
+    color: #737573;
+}
+
+.text h6 {
+    font-weight: 100;
+    color: #737573;
+
 }
